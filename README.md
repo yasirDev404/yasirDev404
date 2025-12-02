@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Yasir</h1>
+<h3 align="center">15 y/o Backend Engineer — shipping production systems for comapnies and enterprises</h3>
 
-<!--
-**yasirDev404/yasirDev404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yasirDev404&label=Profile%20Views&color=blue&style=flat" alt="profile views"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🧑‍💻 I'm a **15-year-old backend developer** building real production apps  
+- 🔥 Built **8+ backends** actively used by businesses globally 
+- 💼 Have experience with building **Hyper-Complex Back-end's** Such as Crypto Trading Platforms, FoodDelivery Websites, and many more ;)
+- ⚡ I build fast, scalable, clean APIs using modern tooling 
+- 🤖 Have experience with Raw coding with no AI😭(To anyone reading, Dont try it NEVER! DONT EVEN THINK ABOUT IT!!)
+
+---
+
+## 🛠️ Tech Stack
+
+**Backend**
+- Node.js • Express.js  
+- MongoDB • PostgreSQL  
+- JWT • Bcrypt • Zod/Joi  
+- REST APIs • Microservices  
+
+**Payments**
+- Stripe (checkout, webhooks, subscriptions)
+- NowPayment
+
+**Dev Tools**
+- Docker • Git • Postman  
+- Cursor • VS Code • ClaudeCode 
+
+**Other**
+- React Native (intermediate)  
+- Cloud basics (AWS, Vercel)
+
+---
+
+## 🌐 Contact
+- 📧 **yasirsaheto11@gmail.com**
+- 💼 Open to freelance & project collaborations
+
+---
+
+<p align="center">⭐ If you like my work, consider giving a star to my repositories!, I know it's incomplete I didnt get the time to complete it😔 **Sobs**</p>
