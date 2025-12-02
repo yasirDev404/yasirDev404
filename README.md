@@ -11,7 +11,7 @@
 - 🧑‍💻 I'm a **15-year-old backend developer** building real production apps  
 - 🔥 Built **8+ backends** actively used by businesses globally 
 - 💼 Have experience with building **Hyper-Complex Back-end's** Such as Crypto Trading Platforms, FoodDelivery Websites, and many more ;)
-- ⚡ I build fast, scalable, clean APIs using modern tooling 
+- ⚡ I focus more on scalable structure and API's, and use cache and pre warming cache techniques for optimal speed 
 - 🤖 Have experience with Raw coding with no AI😭(To anyone reading, Dont try it NEVER! DONT EVEN THINK ABOUT IT!!)
 
 ---
